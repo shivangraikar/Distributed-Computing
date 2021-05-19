@@ -8,7 +8,6 @@ s=input('\nEnter the agreed upon time (in HH:MM format):- ')
 time=s[:3]
 s=int(s[3:])
 
-
 l1=[]
 for i in l:
 	l1.append(int(i[3:])) 
