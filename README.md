@@ -1,1 +1,1 @@
-# Digital-Computing
+# Distributed Computing
