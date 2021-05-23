@@ -41,4 +41,3 @@ for i in range(e,len(n)):
 	if(okay(i+1,s)):
 		break;
 print(i," is the coordinator")
-
