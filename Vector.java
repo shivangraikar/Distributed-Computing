@@ -67,9 +67,6 @@ continue;
 System.out.println();
 
 
-
-
-
 int time[][] = new int[n][10];
 
 
@@ -108,8 +105,6 @@ int sum = ((time[(prevp[x][z])][(preve[x][z])])%p); time[x][z] = sum + time[x][z
 else
 time[x][z] = (time[(prevp[x][z])][(preve[x][z])] + time[x][z]);
 }
-
-
 
 
 }
